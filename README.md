@@ -2,7 +2,7 @@
 
 <div align="center">
   <video controls="controls" width="650" height="780" name="Lockscreen">
-  <source src="https://pauldyanez.com/images/github/Lockscreen4.mov">
+  <source src="https://pauldyanez.com/images/github/Lockscreen4.mov"/>
 </video>
 </div>
 <br>

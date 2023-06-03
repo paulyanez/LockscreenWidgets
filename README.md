@@ -1,8 +1,8 @@
 # LockscreenWidgets
 
 <div align="center">
-
-  <embed src="https://pauldyanez.com/images/github/Lockscreen4.mov"></embed>
+<video id="sampleMovie" src="https://pauldyanez.com/images/github/Lockscreen4.mov" controls></video>
+  
 </div>
 <br>
 Dynamic Widgets on  the iOS Lock Screen in SwiftUI. 

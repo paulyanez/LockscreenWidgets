@@ -1,7 +1,7 @@
 # LockscreenWidgets
 
 <div align="center">
-  <img src="https://pauldyanez.com/images/github/LockscreenWidgets.jpg" width="900"/>
+  <img src="https://pauldyanez.com/images/github/LockscreenWidgets.jpg" width="600"/>
 </div>
   
 </div>

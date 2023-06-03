@@ -1,8 +1,8 @@
 # LockscreenWidgets
 
 <div align="center">
-  <video controls="controls" width="650" height="780" name="Lockscreen">
-  <source src="[http://www.myserver.com/myvideo.mov](https://pauldyanez.com/images/github/Lockscreen4.mov">
+  <video controls="controls" width="650" name="Lockscreen">
+  <source src="https://pauldyanez.com/images/github/Lockscreen4.mov">
 </video>
 </div>
 <br>
